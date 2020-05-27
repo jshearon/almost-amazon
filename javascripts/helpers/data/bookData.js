@@ -1,6 +1,6 @@
 const bookData = {
   price: 24.99,
-  title: 'Book Title',
+  title: 'Awesome Book Title',
   image: 'path to image'
 }
 
